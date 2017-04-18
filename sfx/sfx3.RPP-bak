@@ -1,0 +1,1298 @@
+<REAPER_PROJECT 0.1 "5.35/x64" 1490955748
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 1
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0
+  MAXPROJLEN 0 600
+  GRID 3199 8 1 8 1 0 0
+  TIMEMODE 1 5 -1 30 0
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 64
+  ZOOM 14.37459944523505 0 0
+  VZOOMEX 1
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "D:\Studio\Desktop\sfx\print\bitcrushed\Fulltime.wav"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 0
+  DEFPITCHMODE 589824
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxAAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 74 64.5
+  SELECTION2 74 64.5
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERFXLIST
+    WNDRECT 486 156 942 277
+    SHOW 0
+    LASTSEL 2
+    DOCKED 0
+    BYPASS 1 0 0
+    <JS remaincalm_org/paranoia_mangler ""
+      0.000000 -70.000000 -3.000000 12000.000000 1.000000 0.000000 6.000000 0.000000 - - - - 89.000000 16.000000 1.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    >
+    FLOATPOS 0 0 0 0
+    FXID {C1988E35-92F6-48AE-A69A-DA15AB3BC7E5}
+    WAK 0
+    BYPASS 1 0 0
+    <VST "VST: ReaPitch (Cockos)" reapitch.dll 0 "" 1919250531
+      Y3Blcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+      AAAAAP////8BAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAPzeJAT8AAAA/8KcGP/hTAz8AAAA/AAAAPwAAAD8AAIA/AAAAPw==
+      AAAQAAAA
+    >
+    FLOATPOS 0 0 0 0
+    FXID {090FFA9B-CD6F-4E5E-AA7A-794066B57715}
+    WAK 0
+    BYPASS 0 0 0
+    <JS loser/3BandEQ ""
+      -24.000000 200.000000 0.000000 2000.000000 0.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    >
+    FLOATPOS 0 0 0 0
+    FXID {2C78CC81-0556-4D91-8785-ED4B15FA2BA3}
+    WAK 0
+  >
+  <MASTERPLAYSPEEDENV
+    ACT 0
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    ACT 0
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {BE236F95-4945-4695-9576-FAC6F74C9CEC}
+    NAME 345800__patobottos__whistle
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BE236F95-4945-4695-9576-FAC6F74C9CEC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.69895833333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1A9CD3EE-2218-471B-B273-0AAE4FA244AE}
+      IID 1
+      NAME 345800__patobottos__whistle.aiff
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {805E40BE-6C1D-4BDA-8E93-D1038F00CF45}
+      <SOURCE WAVE
+        FILE "345800__patobottos__whistle.aiff"
+      >
+    >
+  >
+  <TRACK {6DE259CA-0D37-4AE2-A69A-76E8637C2CD7}
+    NAME 206003__habbis92__norwegian-football-match-soccer-game-ambience
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {6DE259CA-0D37-4AE2-A69A-76E8637C2CD7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 116.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {3ABF153F-97B5-403A-BD40-8C715916A95B}
+      IID 5
+      NAME 206003__habbis92__norwegian-football-match-soccer-game-ambience.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1272139C-0B2A-4E1E-A096-EC6263FB881C}
+      <SOURCE WAVE
+        FILE "206003__habbis92__norwegian-football-match-soccer-game-ambience.wav"
+      >
+    >
+    <ITEM
+      POSITION 116.5
+      SNAPOFFS 0
+      LENGTH 10.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {5BF57C01-8BC3-4B70-95D5-BD6EF3083C00}
+      IID 5
+      NAME 206003__habbis92__norwegian-football-match-soccer-game-ambience.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 116.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73615B5D-971F-4538-BB92-7111F455BDB5}
+      <SOURCE WAVE
+        FILE "206003__habbis92__norwegian-football-match-soccer-game-ambience.wav"
+      >
+    >
+    <ITEM
+      POSITION 127
+      SNAPOFFS 0
+      LENGTH 47.85733333333337
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {9D1ADCD3-EAEA-4847-ADE6-8DC127675DAF}
+      IID 5
+      NAME 206003__habbis92__norwegian-football-match-soccer-game-ambience.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 127
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1A6F2EF6-4CE4-4008-A3B4-B394D612F6D7}
+      <SOURCE WAVE
+        FILE "206003__habbis92__norwegian-football-match-soccer-game-ambience.wav"
+      >
+    >
+  >
+  <TRACK {AEFE5888-1193-4057-A57C-E2F0827946B0}
+    NAME 237676__quistard__football-crowd-minute-silence-then-whistle-blow-crowd-cheer-southampton-vs-hull-at-saint-mary-s-stadium
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AEFE5888-1193-4057-A57C-E2F0827946B0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      ACT 1
+      VIS 0 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT -0.0005 0.97 0
+      PT 7.5 1 0
+      PT 17.5 1.02 0 0 1
+      PT 17.5005 1.01899963 0
+      PT 18.0005 1.02 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 15.73064583333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.957363 0 1 0 0
+      FADEOUT 2 10.036483 0 2 0 -1
+      MUTE 0
+      SEL 0
+      IGUID {5CA06EC6-091E-46E1-A752-B2423B8BBFA6}
+      IID 6
+      NAME 237676__quistard__football-crowd-minute-silence-then-whistle-blow-crowd-cheer-southampton-vs-hull-at-saint-mary-s-stadium.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 62.19895833333333
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB91FB43-32CD-4CFE-AE1C-3B66C32F0BA0}
+      <SOURCE WAVE
+        FILE "237676__quistard__football-crowd-minute-silence-then-whistle-blow-crowd-cheer-southampton-vs-hull-at-saint-mary-s-stadium.wav"
+      >
+    >
+  >
+  <TRACK {CCF66E8D-4DC3-460A-B352-999A0D4F459B}
+    NAME 237683__quistard__football-crowd-near-miss-ooh-southampton-vs-hull-at-saint-mary-s-stadium
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CCF66E8D-4DC3-460A-B352-999A0D4F459B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 15.73064583333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {AEE33497-1400-4A16-A618-50DF2059B22A}
+      IID 7
+      NAME 237683__quistard__football-crowd-near-miss-ooh-southampton-vs-hull-at-saint-mary-s-stadium.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67E94345-E240-415B-A1BB-F31FA7860168}
+      <SOURCE WAVE
+        FILE "237683__quistard__football-crowd-near-miss-ooh-southampton-vs-hull-at-saint-mary-s-stadium.wav"
+      >
+    >
+  >
+  <TRACK {39F4534C-9369-4776-B8A5-078AB7C2DBAB}
+    NAME "Audio Track-3"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {39F4534C-9369-4776-B8A5-078AB7C2DBAB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {08333BE0-215F-4030-80F7-235445555DE1}
+      IID 9
+      NAME "Audio Track-3.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {428816B2-E7C5-40C4-9ECA-F8E51C0FA02F}
+      <SOURCE WAVE
+        FILE "Audio Track-3.wav"
+      >
+    >
+  >
+  <TRACK {137EC480-A66D-4413-89E0-EA90C972CCD8}
+    NAME "Audio Track-4"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {137EC480-A66D-4413-89E0-EA90C972CCD8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {76C307D9-68E8-447E-B1E1-341B260ADBED}
+      IID 10
+      NAME "Audio Track-4.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 2.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85F73421-D40B-43F1-80D4-1F9FFAF793BE}
+      <SOURCE WAVE
+        FILE "Audio Track-4.wav"
+      >
+    >
+  >
+  <TRACK {5E62F8D9-8405-499C-8D32-E0B09D43A680}
+    NAME "Audio Track-5"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5E62F8D9-8405-499C-8D32-E0B09D43A680}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 1.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {1D16B4B9-C799-4387-817F-3921B1AD0C03}
+      IID 11
+      NAME "Audio Track-5.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {454349F9-2945-418F-AE0C-1B845BA6422A}
+      <SOURCE WAVE
+        FILE "Audio Track-5.wav"
+      >
+    >
+  >
+  <TRACK {E2FCB885-5CA7-4275-AF72-30FA69719B81}
+    NAME "Audio Track"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {E2FCB885-5CA7-4275-AF72-30FA69719B81}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 18.5
+      SNAPOFFS 0
+      LENGTH 6
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.393869 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {A456DF1D-C7DA-49AD-9E9B-5286598234E7}
+      IID 14
+      NAME "Audio Track.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7A628080-8F65-4E46-9874-8644578363CB}
+      <SOURCE WAVE
+        FILE "Audio Track.wav"
+      >
+    >
+  >
+  <TRACK {261E722D-6913-464C-80B5-49F40EF8CDD5}
+    NAME 201203__jjhouse4__syracuse-dome-cheering
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.72056191779384 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 111 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {261E722D-6913-464C-80B5-49F40EF8CDD5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 96 56 966 520
+      SHOW 0
+      LASTSEL 1
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS remaincalm_org/paranoia_mangler ""
+        0.000000 -96.000000 -3.000000 12317.830000 1.000000 0.000000 3.000000 0.000000 - - - - 75.000000 15.000000 1.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {782F6AB8-01DD-40C7-A332-3FBCDD8BFE96}
+      WAK 0
+      BYPASS 1 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.dll 0 "" 1919247468
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAAAAAAAAABAAAALAAAAAIAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAIA8nNEHMwAAgD8AAAAAexSuPQAAgD8AAIA/AAAAPw==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {908FC0F8-CC63-4492-BF06-AAD1E4499ACB}
+      WAK 0
+    >
+    <ITEM
+      POSITION 16
+      SNAPOFFS 0
+      LENGTH 9.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5.1 1.467567 0 5.1 0 0
+      FADEOUT 5 2.652991 0 5 0 0
+      MUTE 0
+      SEL 0
+      IGUID {7FEE4FFC-FA31-4289-8DDD-A4D5A145EC1C}
+      IID 4
+      NAME 201203__jjhouse4__syracuse-dome-cheering.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07A4FE45-07CA-449B-A8BE-DDA9076AD200}
+      <SOURCE WAVE
+        FILE "201203__jjhouse4__syracuse-dome-cheering.wav"
+      >
+    >
+  >
+  <TRACK {B3887236-D10D-4B7A-8913-E858CB22BDA4}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1.73672236586141 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B3887236-D10D-4B7A-8913-E858CB22BDA4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 26
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5.1 0.764851 0 5.1 0 0
+      FADEOUT 5.1 4.829142 0 5.1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {6359182E-3CDB-4E27-A5F6-38B04C67528E}
+      IID 5
+      NAME 206003__habbis92__norwegian-football-match-soccer-game-ambience.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 116.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7522DC79-2DEA-4F3E-AD77-B61DD77C1EBF}
+      <SOURCE WAVE
+        FILE "206003__habbis92__norwegian-football-match-soccer-game-ambience.wav"
+      >
+    >
+  >
+  <TRACK {2F139EB9-7F1C-489E-8BB8-914B0374750D}
+    NAME 78508__joedeshon__referee-whistle-01
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.46415452868198 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 166 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 0
+    TRACKID {2F139EB9-7F1C-489E-8BB8-914B0374750D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 96 56 942 393
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS remaincalm_org/paranoia_mangler ""
+        7.000000 -96.000000 -3.000000 4092.403333 1.000000 0.000000 3.000000 0.000000 - - - - 75.000000 26.000000 1.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {8C0B1E3F-C576-4AF7-931E-244C08D70955}
+      WAK 0
+    >
+    <ITEM
+      POSITION 27
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.136668 0 1 0 0
+      FADEOUT 1 0.847893 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D722FB23-65D3-4877-BB04-51C8A0095BF3}
+      IID 26
+      NAME RonaldinhofreekickvsEnglandWorldCup2002.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 24
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0938DFAB-1DB7-4B56-A6CB-00A8B784AE33}
+      <SOURCE MP3
+        FILE "RonaldinhofreekickvsEnglandWorldCup2002.mp3" 1
+      >
+    >
+  >
+  <TRACK {9F125E90-C500-41E3-B8BD-FA3A788096CD}
+    NAME goalazzo
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9F125E90-C500-41E3-B8BD-FA3A788096CD}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 27
+      SNAPOFFS 0
+      LENGTH 8.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.835124 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {E6FC8480-8248-4A9F-998E-D53F3E8A377A}
+      IID 19
+      NAME goalazzo.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {188BEFB0-3E02-455A-A668-4C93309CD2AB}
+      <SOURCE WAVE
+        FILE "goalazzo.wav"
+      >
+    >
+  >
+  <TRACK {0CDD621C-E746-4086-874B-6388EF3DBCFF}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.70462939198009 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0CDD621C-E746-4086-874B-6388EF3DBCFF}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 36.5
+      SNAPOFFS 0
+      LENGTH 1.56421147420154
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.25452 0 1 0 0
+      FADEOUT 1.1 0.01 0.564211 1 1 0.062366
+      MUTE 0
+      SEL 0
+      IGUID {D96D14BE-C79C-4C93-A5EA-B8ED310B3BC3}
+      IID 21
+      NAME a-03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {69591B63-5B16-4677-9E0F-5C8495AC0ECC}
+      <SOURCE WAVE
+        FILE "a-03.wav"
+      >
+    >
+    <ITEM
+      POSITION 37.5
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.564211 1 1 0.062366
+      FADEOUT 0 2.761358 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {C09109FD-6237-4FEF-B2BE-FBADDE43544A}
+      IID 21
+      NAME a-03.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CA874EFD-C3F8-4C6F-A244-7E91C1663641}
+      <SOURCE WAVE
+        FILE "a-03.wav"
+      >
+    >
+  >
+  <TRACK {B5374ECF-AD96-429D-8389-E99A9B24EC3C}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B5374ECF-AD96-429D-8389-E99A9B24EC3C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5.1 0.953455 0 5.1 0 0
+      FADEOUT 5.1 4.444309 0 5.1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {09B0040D-04AC-467E-91BD-C4D98B30F309}
+      IID 23
+      NAME a-01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 4
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E2BBC4D5-2A41-4404-A822-884F9CCBB6D9}
+      <SOURCE WAVE
+        FILE "a-01.wav"
+      >
+    >
+  >
+  <TRACK {D2CA0CCC-CA0F-4CCB-9D4E-1D1AAC079908}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.16329416261566 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 151 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D2CA0CCC-CA0F-4CCB-9D4E-1D1AAC079908}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 96 56 942 277
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <JS loser/3BandEQ ""
+        0.000000 200.000000 0.000000 2000.000000 24.000000 0.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      >
+      FLOATPOS 0 0 0 0
+      FXID {689400E8-9619-4645-9A3C-F1595C582430}
+      WAK 0
+    >
+    <ITEM
+      POSITION 47.5
+      SNAPOFFS 0
+      LENGTH 14.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5.1 0.605789 0 5.1 0 0
+      FADEOUT 1 3.778972 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {8A74B7BD-3122-4E7F-BC7C-5C03971FAA0F}
+      IID 20
+      NAME a-02.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE8D1424-3B3A-4A78-9877-B07E3D083143}
+      <SOURCE WAVE
+        FILE "a-02.wav"
+      >
+    >
+  >
+  <TRACK {F6F827C0-098B-46AE-A686-6E5951027A9F}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 1
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F6F827C0-098B-46AE-A686-6E5951027A9F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 66.92303854875283
+      SNAPOFFS 0
+      LENGTH 4.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.835124 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {CA0F42C1-133A-40C5-B64B-98ED1A46EA8E}
+      IID 19
+      NAME goalazzo.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5C1D9BA9-EE6E-4A9B-B03B-FB68D62FF5A4}
+      <SOURCE WAVE
+        FILE "goalazzo.wav"
+      >
+    >
+  >
+  <TRACK {ECA78F06-51AB-43BF-81A5-581E9275DB49}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {ECA78F06-51AB-43BF-81A5-581E9275DB49}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 48
+      SNAPOFFS 0
+      LENGTH 10
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1.1 0.01 8 1 1 0
+      MUTE 0
+      SEL 0
+      IGUID {AD72FFF0-6640-40BF-B551-98053DCBAA1E}
+      IID 22
+      NAME a-04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E95CEF6-82F3-4A0D-9577-78B3E583E58B}
+      <SOURCE WAVE
+        FILE "a-04.wav"
+      >
+    >
+    <ITEM
+      POSITION 50
+      SNAPOFFS 0
+      LENGTH 14.42303854875283
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 8 1 1 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {D3F37B03-D659-470C-808A-A8BC894697BB}
+      IID 22
+      NAME a-04.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 10
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3D412608-B380-407C-9BE8-64B7637655B7}
+      <SOURCE WAVE
+        FILE "a-04.wav"
+      >
+    >
+  >
+  <TRACK {D8098539-1343-4258-AA96-7A04A213E666}
+    NAME "Audio Track-6"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.20663638006368 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {D8098539-1343-4258-AA96-7A04A213E666}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 64.42303854875283
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4A6D1712-62C4-4117-8570-851AC6D82962}
+      IID 12
+      NAME "Audio Track-6.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.60848072562358
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A04A3EA6-F5A2-4300-9F0B-14F285AB823E}
+      <SOURCE WAVE
+        FILE "Audio Track-6.wav"
+      >
+    >
+  >
+  <TRACK {7828CC22-8521-418D-A769-59C071B70BC6}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7828CC22-8521-418D-A769-59C071B70BC6}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 64.42303854875283
+      SNAPOFFS 0
+      LENGTH 9
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 5.1 1.043174 0 5.1 0 0
+      FADEOUT 0 4.829142 0 0 0 0
+      MUTE 0
+      SEL 0
+      IGUID {65700025-14F2-4633-9144-B454C8869ACC}
+      IID 5
+      NAME 206003__habbis92__norwegian-football-match-soccer-game-ambience.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 118
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {545A2ECC-C400-44B4-B547-DA2B11C33441}
+      <SOURCE WAVE
+        FILE "206003__habbis92__norwegian-football-match-soccer-game-ambience.wav"
+      >
+    >
+  >
+  <TRACK {9AEF70E7-7BE5-4362-A2AD-D9777E4A1CD2}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9AEF70E7-7BE5-4362-A2AD-D9777E4A1CD2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 64.42303854875283
+      SNAPOFFS 0
+      LENGTH 1.22657596371883
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {4E915251-79B4-4E00-8C3D-E9576C3C194C}
+      IID 2
+      NAME 78508__joedeshon__referee-whistle-01.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19E3AC56-2AED-4D95-88B4-B338CFA12DEE}
+      <SOURCE WAVE
+        FILE "78508__joedeshon__referee-whistle-01.wav"
+      >
+    >
+  >
+  <TRACK {BA395469-E905-4442-8069-27C8AAC9CB18}
+    NAME 90743__pablo-f__referee-whistle
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BA395469-E905-4442-8069-27C8AAC9CB18}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 64.42303854875283
+      SNAPOFFS 0
+      LENGTH 2.10848072562358
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {05B7651C-F01C-4750-A7BA-66710F546227}
+      IID 3
+      NAME 90743__pablo-f__referee-whistle.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {774B8F19-7198-4F45-B8F4-5ADA3E6EA24D}
+      <SOURCE WAVE
+        FILE "90743__pablo-f__referee-whistle.wav"
+      >
+    >
+  >
+  <TRACK {0162A326-A770-4125-AFC2-57BD265C225F}
+    NAME "Audio Track-2"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0162A326-A770-4125-AFC2-57BD265C225F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 64.42303854875283
+      SNAPOFFS 0
+      LENGTH 4.42920634920632
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0
+      FADEOUT 1 0.01 0 1 0 0
+      MUTE 0
+      SEL 0
+      IGUID {65BDB6FB-9085-427A-8926-2791CE94D081}
+      IID 8
+      NAME "Audio Track-2.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 9.28507936507937
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {192B9DFB-7087-4BD8-AB92-8F57E3DA917C}
+      <SOURCE WAVE
+        FILE "Audio Track-2.wav"
+      >
+    >
+  >
+  <TRACK {90D77E9A-AAAC-412F-AE7B-A3CA1568E40A}
+    NAME "Audio Track-7"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    ISBUS 0 0
+    BUSCOMP 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FREEMODE 0
+    SEL 0
+    REC 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {90D77E9A-AAAC-412F-AE7B-A3CA1568E40A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+>
