@@ -1,0 +1,20 @@
+<img src="wall-graphics-RevC_5000.png" width="100%"><p>Be The Goalie was assembled from a variety of open and libre software, hardware, and existing parts, commonly used and well loved by the maker community. Our code is open, and can be <a href="https://github.com/royshearer/beTheGoalie" target="_blank">viewed and downloaded at GitHub</a>.</p>
+
+<b>The Kinects and the Walls</b>
+<p>At the heart of Be The Goalie are two Kinect depth sensing cameras - cameras that use an infrared laser array to measure distances for each pixel, creating a 3D image. Along with some nifty software, the Kinects recognise bodies in the play area opposite the sensor (ie. the Kinect at the red end is 'looking' at the players at the blue end), and assign them an identifier.</p>
+
+<p>Each Kinect is connected to a small desktop computer (Minix), housed within the wall structure. This computer runs Processing, a very flexible programming language and environment. Our custom Processing code takes the list of users from the Kinect sensor and runs a series of tests to filter out people outside the play area, and if there is more than one person in the play area, selects the closest person. It then takes that person's horizontal position, turns it into a number between 0 and 254 and sends this number to the football table (over a Serial connection). It does this continuously as long as that person is detected. </p>
+
+<p>The same code also displays a 'Game Stats' screen on a monitor on the rear of the wall, giving the audience there some insight into the workings of the game. The code also listens for cues from the football table and plays kickoff, fulltime and goal celebration sounds, and sends cues to the nearest scoreboard, accordingly (over another serial connection).</p>
+
+<p>Each scoreboard contains an Arduino embedded computer, which receives the kickoff, full-time and goal cues from the computer and sends out animation instructions to a matrix of 64x32 LEDs accordingly. It also keeps count of the score at its end, and counts down a game timer. Both are reset every time a kickoff signal is received.</p>
+
+<b>The Table</b>
+<p>The table contains two main Arduinos, one to actuate each goalie. Each Arduino receives the serial data from the wall at the opposite end to the goalie it is actuating. Our custom Arduino code 'listens' for changes in the 0-254 number coming in. When it notices a change, it calculates how much, and in which direction to move the motor, and thus the goalie. The motor (a stepper motor) moves the goalie along a rail, using an Openbuilds system commonly used in 3D printers.</p>
+
+<p>The same Arduino receives a signal when the button on the side of the table is pressed. It then makes the goalie kick by momentarily turning on a solenoid (via a relay) behind the goalie's feet.</p>
+
+<p>Goals are sensed when the ball passes through a beam of light shining on a light sensor (LDR) deep within the table. This signal is sent (via a buffering Arduino) to the main Arduino. This then sends a goal cue back to the computer in the opposite wall.</p>
+
+<p>This entire system is mirrored for the opposite side of the game. The timing of the game is handled by one of the main Arduinos. This sends out kickoff and full-time cues to the other Arduino and both walls, with games lasting 3 minutes and restarting automatically.</p>
+
